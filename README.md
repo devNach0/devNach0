@@ -1,4 +1,5 @@
 ### Hola1
 
 ## Stack de tecnologías que uso
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+[![My Skills](https://skillicons.dev/icons?i=js)](https://es.wikipedia.org/wiki/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://es.wikipedia.org/wiki/HTML)
