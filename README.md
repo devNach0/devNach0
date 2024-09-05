@@ -1,4 +1,4 @@
-# Hello1
+### Hola1
 
-## Hello2
-![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,nodejs,express,react,mongodb&theme=dark)
+## Stack de tecnologías que uso
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
