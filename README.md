@@ -18,7 +18,6 @@ Soy desarrollador web junior con experiencia en la creación de aplicaciones uti
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![express](https://skillicons.dev/icons?i=express)](https://expressjs.com/es/)
 [![react](https://skillicons.dev/icons?i=react)](https://es.react.dev/)
-[![pug](https://skillicons.dev/icons?i=pug)](https://pugjs.org/)
 [![mongodb](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/es)
 [![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
